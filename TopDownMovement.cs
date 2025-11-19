@@ -1,3 +1,8 @@
+/*
+This script file is for a 2D player game object. The game object will face in the direction of the mouse.
+The game object will move in the forward direction towards the mouse's cursor
+*/
+
 using UnityEngine;
 
 public class TopDownMovement : MonoBehaviour
